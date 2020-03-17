@@ -1,0 +1,2 @@
+data/app/com.mobisystems.office-19721
+data/app/FacebookStub-19721

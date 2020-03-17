@@ -1,0 +1,4 @@
+com.qidian.QDReader.traditional
+com.haochang.party
+ctrip.english
+com.mobisystems.office

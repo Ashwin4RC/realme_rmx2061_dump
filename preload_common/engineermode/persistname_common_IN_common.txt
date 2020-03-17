@@ -1,0 +1,10 @@
+com.opera.branding.news
+com.opera.app.news
+in.amazon.mShop.android.shopping
+com.eterno
+com.UCMobile.intl
+app.buzz.share
+cn.wps.moffice_eng
+com.realmecomm.app
+com.realmestore.app
+com.gaana

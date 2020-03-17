@@ -1,0 +1,2 @@
+data/app/com.opera.branding.news-19721
+data/app/com.opera.app.news-19721

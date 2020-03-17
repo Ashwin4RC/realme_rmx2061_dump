@@ -1,0 +1,10 @@
+data/app/com.opera.branding.news-19721
+data/app/com.opera.app.news-19721
+data/app/in.amazon.mShop.android.shopping-19721
+data/app/com.eterno-19721
+data/app/com.UCMobile.intl-19721
+data/app/app.buzz.share-19721
+data/app/cn.wps.moffice_eng-19721
+data/app/com.realmecomm.app-19721
+data/app/com.realmestore.app-19721
+data/app/com.gaana-19721

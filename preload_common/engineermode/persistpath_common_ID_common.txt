@@ -1,0 +1,9 @@
+data/app/com.jakarta.baca.lite-19721
+data/app/com.msd.JTClient-19721
+data/app/com.opera.branding.news-19721
+data/app/com.opera.app.news-19721
+data/app/com.lazada.android-19721
+data/app/com.qidian.Int.reader-19721
+data/app/cn.wps.moffice_eng-19721
+data/app/com.realmecomm.app-19721
+data/app/com.michatapp.im-19721

@@ -1,0 +1,24 @@
+
+<permissions>
+    <!-- Qicai.Zhu@PSW.Multimedia.Display.LCD.Params, 2019/06/19, Modify for screen underlightsensor -->
+    <feature name="oppo.roundcorner.support" />
+    <feature name="oppo.eyeprotect.support" />
+    <feature name="oppo.display.colormode.support" />
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <!-- caobing@Swdp.Shanghai, 2019/02/05, Add for ovs smartmic support on 19125 -->
+    <feature name="oppo.ovs.smartmic.support" />
+    <!-- caobing@Swdp.Shanghai, 2019/03/29, Add for ovs three wakeup words support on 19125-->
+    <feature name="oppo.breeno.three.words.support" />
+    <feature name="oppo.appautoresolution.support" />
+    <!-- YaoJun.Luo@ROM.SDK, 2018/05/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+    <!-- Zeke.Shi@RM.MM.Display.Feature, 2019/01/07, Add for cabc dynamic level support -->
+    <feature name="cabc.level.dynamic.enable" />
+    <!-- Qing.Wu@PSW.AD.Wms.0000, 2019/09/26, Add for 90Hz screeb support on max -->
+    <feature name="oppo.display.screen.90hz.support"/>
+    <feature name="oppo.display.screen.defaultsmartmode"/>
+    <!-- Chenyang.Zhang@RM.MM.AuioServer.Policy, 2019/12/03, Add for DualHeadPhone -->
+    <feature name="realme.multimedia.dualheadphone"/>
+    <feature name="oppo.multimedia.internal.record" />
+    <feature name="oppo.multi.device.decrease.refresh.rate" />
+</permissions>

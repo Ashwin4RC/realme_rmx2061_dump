@@ -1,0 +1,9 @@
+com.jakarta.baca.lite
+com.msd.JTClient
+com.opera.branding.news
+com.opera.app.news
+com.lazada.android
+com.qidian.Int.reader
+cn.wps.moffice_eng
+com.realmecomm.app
+com.michatapp.im
