@@ -1,0 +1,10 @@
+
+<permissions>
+    <feature name="oppo.feature.19721" />
+    <!-- yangmingjin@BSP, 2019/07/17, add for hypnus benchmark perf mode  support-->
+    <feature name="realme.hypnus.perf.benchmark.support"/>
+    <!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1197891, 2018/08/24, Add for SLA feature -->
+    <feature name="oppo.wlan.sla.support" />
+    <!-- YunRui.Chen@RM.BSP.TP.Funtion, 2019/12/04, Add for blackgesture -->
+    <feature name="oppo.lcd.first.tp.last.support"/>
+</permissions>
